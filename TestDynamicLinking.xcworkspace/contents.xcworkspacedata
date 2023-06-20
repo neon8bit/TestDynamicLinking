@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TDNetwork">
+   </FileRef>
+   <FileRef
+      location = "group:TDChat">
+   </FileRef>
+   <FileRef
+      location = "group:TDDependencies">
+   </FileRef>
+   <FileRef
+      location = "group:TDLog">
+   </FileRef>
+   <FileRef
+      location = "group:TestDynamicLinking.xcodeproj">
+   </FileRef>
+</Workspace>
